@@ -34,11 +34,4 @@ To get started with the AdventureWorks database, follow these steps to download 
 Make sure to use the AdventureWorks 2019 OLTP database for your tasks.
 
 ---
-### Contact
 
-For any clarifications or assistance regarding this task, please contact:
-
-- **Name:** Rakshit Gupta
-- **ID:** CT_CSI_SQ_4156
-- **Email:** guptarakshit9858@gmail.com
-- **LinkedIn:** [Rakshit Gupta](https://www.linkedin.com/in/rakshit-gupta)
